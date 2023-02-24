@@ -562,7 +562,7 @@ arcolinux-systemd-services-git
 archlinux-tweak-tool-git
 arcolinux-variety-git
 arcolinux-variety-autostart-git
-arcolinux-volumeicon-git
+#arcolinux-volumeicon-git
 arcolinux-wallpapers-git
 #arcolinux-wallpapers-dual-git
 #arcolinux-wayland-profile-git
@@ -805,7 +805,7 @@ picom
 
 #mugshot
 #menulibre
-volumeicon
+#volumeicon
 
 ###########################################################################
 #                         ARCOLINUX ISO SPECIFIC
@@ -923,3 +923,4 @@ lolcat
 eww
 dash
 arcolinux-chadwm-pacman-hook-git
+pa-applet
