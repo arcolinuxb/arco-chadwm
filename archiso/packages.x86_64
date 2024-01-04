@@ -491,7 +491,7 @@ yay-bin
 arcolinux-alacritty-git
 arcolinux-arc-kde
 arcolinux-bin-git
-#arcolinux-btop-git
+arcolinux-btop-git
 a-candy-beauty-icon-theme-git
 #arcolinux-common-git
 arcolinux-conky-collection-git
@@ -929,15 +929,16 @@ xfce4-taskmanager
 ###########################################################################
 
 #desktop specific chadwm
-sxhkd
-autorandr
-arcolinux-chadwm-git
-arcolinux-wallpapers-candy-git
-arcolinux-paleofetch-git
-lolcat
-eww
-dash
-arcolinux-chadwm-pacman-hook-git
 #pa-applet-git
+arcolinux-chadwm-git
+arcolinux-chadwm-pacman-hook-git
+arcolinux-paleofetch-git
+arcolinux-wallpapers-candy-git
+autorandr
+btop
+dash
+eww
+lolcat
+sxhkd
 ttf-jetbrains-mono-nerd
 ttf-meslo-nerd-font-powerlevel10k
