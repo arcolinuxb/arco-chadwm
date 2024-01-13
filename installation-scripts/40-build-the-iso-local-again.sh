@@ -29,7 +29,7 @@ echo
 	desktop="chadwm"
 	dmDesktop="chadwm"
 
-	arcolinuxVersion='v24.02.02'
+	arcolinuxVersion='v24.02.03'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
